@@ -1,4 +1,4 @@
-# late_show_API 
+Late Show API  
 
 A Flask-based REST API for managing a database of late show guests, built with SQLAlchemy and Alembic for migrations.
 
